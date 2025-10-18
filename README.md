@@ -91,10 +91,7 @@ Unauthorized transmission or interference with public communication channels may
 This project is released under the **MIT License**.  
 See [LICENSE](./LICENSE) for details.
 
----
 
-**Author:** SecureTechware  
-**Website:** [https://securetechware.com](https://securetechware.com)
 
 
 
