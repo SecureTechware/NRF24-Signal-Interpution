@@ -1,4 +1,4 @@
-﻿# SecureTechware 2.4GHz Channel Sweeper
+﻿# 2.4GHz Channel Sweeper using NRF24 and Arduino 
 
 A lightweight Arduino-based **2.4GHz Channel Sweeper** designed for RF testing, interference analysis, and channel activity verification using the **nRF24L01** module.
 
@@ -95,4 +95,5 @@ See [LICENSE](./LICENSE) for details.
 
 **Author:** SecureTechware  
 **Website:** [https://securetechware.com](https://securetechware.com)
+
 
