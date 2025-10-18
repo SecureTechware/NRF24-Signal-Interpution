@@ -41,8 +41,8 @@ Useful for lab environments, RF performance testing, or verifying signal presenc
 
 ## 🧰 Sketch Diagram
 
-*(Add your project wiring or flow diagram here)*  
-`[Placeholder for Diagram Image]`
+![Sketch Diagram - NRF24 Jammer](NRF24-Jammer.png)
+
 
 ---
 
@@ -95,3 +95,4 @@ See [LICENSE](./LICENSE) for details.
 
 **Author:** SecureTechware  
 **Website:** [https://securetechware.com](https://securetechware.com)
+
