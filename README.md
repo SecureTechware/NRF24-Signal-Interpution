@@ -1,4 +1,4 @@
-﻿# 2.4GHz Channel Sweeper using NRF24 and Arduino 
+﻿# 2.4GHz Channel Sweeper using NRF24
 
 A lightweight Arduino-based **2.4GHz Channel Sweeper** designed for RF testing, interference analysis, and channel activity verification using the **nRF24L01** module.
 
@@ -41,7 +41,7 @@ Useful for lab environments, RF performance testing, or verifying signal presenc
 
 ## 🧰 Sketch Diagram
 
-![Sketch Diagram - NRF24 Jammer](NRF24-Jammer.png)
+![Sketch Diagram - NRF24 Jammer](Sketch-diagram.png)
 
 
 ---
@@ -90,6 +90,7 @@ Unauthorized transmission or interference with public communication channels may
 
 This project is released under the **MIT License**.  
 See [LICENSE](./LICENSE) for details.
+
 
 
 
