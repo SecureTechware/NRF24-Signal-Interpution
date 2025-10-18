@@ -49,7 +49,7 @@ Useful for lab environments, RF performance testing, or verifying signal presenc
 ## 🚀 Usage
 
 1. Connect your **nRF24L01** module as per the table above.  
-2. Open `SecureTechware_2.4GHz_Channel_Sweeper.ino` in Arduino IDE.  
+2. Open `.ino` in Arduino IDE.  
 3. Select **Arduino Uno** board and correct **COM port**.  
 4. Upload the sketch.  
 5. Open **Serial Monitor** at `115200 baud` to view status logs.
@@ -95,5 +95,6 @@ See [LICENSE](./LICENSE) for details.
 
 **Author:** SecureTechware  
 **Website:** [https://securetechware.com](https://securetechware.com)
+
 
 
