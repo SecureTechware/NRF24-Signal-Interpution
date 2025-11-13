@@ -67,6 +67,17 @@ Useful for lab environments, RF performance testing, or verifying signal presenc
 
 ---
 
+## Related Course
+
+Take your skills to the next level with **Bluetooth Hacking and Security MasterClass**, a hands-on, lab-driven Udemy course tailored for red-teamers, penetration testers, security researchers, and hardware security enthusiasts.
+
+**Course title:** Bluetooth Hacking and Security MasterClass  
+**Description:** Master practical Bluetooth offensive and defensive skills with this hands-on, lab-driven course designed for red-teamers, penetration testers, security researchers, and hardware security enthusiasts. You’ll move from clear foundational theory into realistic, mission-oriented exercises that mirror real engagement workflows: recon → weaponized → execute → document → remediate.
+
+[![Udemy Course](https://img.shields.io/badge/Udemy-Course-blue?style=for-the-badge&logo=udemy)](https://www.udemy.com/course/bluetooth-masterclass/?referralCode=74B2506B49D1090C411C)
+
+---
+
 ## ⚠️ Disclaimer
 
 This project is intended **strictly for educational and laboratory use**.  
@@ -90,6 +101,7 @@ Unauthorized transmission or interference with public communication channels may
 
 This project is released under the **MIT License**.  
 See [LICENSE](./LICENSE) for details.
+
 
 
 
