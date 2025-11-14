@@ -77,7 +77,11 @@ Take your skills to the next level with **Bluetooth Hacking and Security MasterC
 [![Udemy Course](https://img.shields.io/badge/Udemy-Course-blue?style=for-the-badge&logo=udemy)](https://www.udemy.com/course/bluetooth-masterclass/?referralCode=74B2506B49D1090C411C)
 
 ---
+### 3. **Bluetooth Hacking & Security MasterClass**
 
+Resolve common issues with this helpful troubleshooting video:  
+[![Troubleshooting](https://img.youtube.com/vi/86kZfGfQBE8/0.jpg)](https://youtu.be/86kZfGfQBE8)
+---
 ## ⚠️ Disclaimer
 
 This project is intended **strictly for educational and laboratory use**.  
@@ -101,6 +105,7 @@ Unauthorized transmission or interference with public communication channels may
 
 This project is released under the **MIT License**.  
 See [LICENSE](./LICENSE) for details.
+
 
 
 
